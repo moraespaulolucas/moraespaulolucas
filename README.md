@@ -5,6 +5,6 @@
 </div>
 <div align="center">
   <a href="#">
-  <img height=200em width=300rem src="https://github-readme-stats-delta-one-96.vercel.app/api/top-langs/?username=moraespaulolucas&theme=dark" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
+  <img width=300rem src="https://github-readme-stats-delta-one-96.vercel.app/api/top-langs/?username=moraespaulolucas&theme=dark" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
   </a>
 </div>
