@@ -3,7 +3,7 @@
 ### My GitHub Stats 📊️
 <div align="center">
   <a href="https://github.com/moraespaulolucas">
-  <img height=200rem src="https://github-readme-stats-delta-one-96.vercel.app/api?username=moraespaulolucas&show_icons=true&theme=dark&count_private=true&icon_color=4040ff&hide=stars" alt="Anurag's GitHub stats (https://github.com/anuraghazra/github-readme-stats)">
+  <img height=200rem src="https://github-readme-stats-delta-one-96.vercel.app/api?username=moraespaulolucas&show_icons=true&theme=dark&count_private=true&icon_color=4040ff&hide=stars&include_all_commits=true" alt="Anurag's GitHub stats (https://github.com/anuraghazra/github-readme-stats)">
   </a>
   <a href="https://github.com/moraespaulolucas">
   <img height=200rem src="https://github-readme-stats-delta-one-96.vercel.app/api/top-langs/?username=moraespaulolucas&theme=dark&layout=compact&langs_count=8" alt="Top Langs (https://github.com/anuraghazra/github-readme-stats)">
